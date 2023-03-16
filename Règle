@@ -11,3 +11,25 @@ Gryffondor : plus resistant au degat
 Ravenclaw : plus précis
 
 different niveaux
+
+Chapitre 4 : Constraints
+There will be no foolish wand-waving or silly
+incantations in this class. As such, I don’t expect
+many of you to appreciate the subtle science and
+exact art that is programming.
+Severus Snape, allegedly
+Votre code devra respecter les contraintes suivantes :
+• Votre code doit être en anglais.
+• Vos fonctions ne doivent pas dépasser 40 lignes.
+• Vous ne devez pas avoir plus de 3 switch case ou de conditions dans les boucles, sauf exception.
+• Vous devez utiliser maven pour build votre projet et lancer le code.
+• Votre code devra séparer en packages.
+• Vous devez utiliser Lombok.
+• Pour l’interface graphique, pas de code métier dans la vue (le fonctionnement d’un bouton s’écrit
+dans le contrôleur).
+• Respectez le principe d’encapsulation : chaque élément doit avoir la plus petite visibilité possible.
+• Utilisez les interfaces comme List, Map et leurs implémentations
+LinkedList, HashMap, ArrayList.
+• Évitez les attributs static inutiles. Utilisez judicieusement les méthodes statiques.
+• Faites des commits réguliers avec git. Utilisez des branches si nécessaire.
+• Utilisez les Design Patterns pour rendre votre code plus clair
