@@ -15,7 +15,7 @@ Fonctionnement
 
 
 Au début d’une partie, on crée notre sorcier Wizard. Il nous faut ensuite l’équiper d’une
-baguette (Wand) et laisser le Choipeau Magique (SortingHat) lui assigner sa maison : Griffondor
+baguette (Wand) et laisser le Choipeau Magique (Personnage.SortingHat) lui assigner sa maison : Griffondor
 (Gryffindor), etc.
 
 Lorsque votre sorcier est prêt, vous pouvez commencer votre première année. Le RPG contient 7
@@ -23,7 +23,7 @@ niveaux, correspondant aux 7 années nécessaires à l’obtention de votre dipl
 vous allez affronter des ennemis différents. Les mécaniques pour les vaincre changeront en fonction
 de l’ennemi.
 
-Pour combattre vos ennemis, vous pourrez utiliser des sorts (Spell) que vous apprendez au fur
+Pour combattre vos ennemis, vous pourrez utiliser des sorts (SpellPotion.Spell) que vous apprendez au fur
 et à mesure des années. Vous disposez également de potions (Potion) qui peuvent vous aider à
 regagner de la vie. Les sorts que vous lancez ont un pourcentage de chance de réussite : vous pouvez
 rater vos sorts.
@@ -136,10 +136,10 @@ C Wizard
 pet : Pet
 wand : Wand
 house : House
-knownSpells : List<Spell>
+knownSpells : List<SpellPotion.Spell>
 potions : List<Potion>
 defend()
-C SortingHat
+C Personnage.SortingHat
 A AbstractEnemy
 C Enemy C Boss
 E Pet
@@ -148,7 +148,7 @@ RAT
 CAT
 TOAD ...
 A AbstractSpell
-C ForbiddenSpell C Spell
+C ForbiddenSpell C SpellPotion.Spell
 C Wand
 core : Core
 size : int

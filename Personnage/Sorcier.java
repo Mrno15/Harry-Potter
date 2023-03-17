@@ -1,7 +1,11 @@
+package Personnage;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
-
+/*
+Sorcier avec baguette, potion et une maison
+ */
 public class Sorcier {
     public static void main(String [] args) throws Exception
     {
