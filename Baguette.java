@@ -20,7 +20,7 @@ public class Baguette {
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr); // permet de lire les chaines de caractères
         Scanner sc;
-        System.out.print("comment t'appele-tu ?");
+        System.out.print("Quelle longueur de baguette souhaite tu avoir ??");
         String name = br.readLine();
         System.out.println(name);
     }

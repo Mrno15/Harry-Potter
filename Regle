@@ -1,63 +1,84 @@
 Harry Potter at Home
 Guillaume Lachaud, Abir Aïssa
 24 février 2023
+
 Chapitre 1 : Start of an adventure
 You’re a wizard, insert your name !
+
 Hagrid
+
+
 Bienvenue dans Harry Potter at Home, le RPG des sorciers. Avez-vous l’étoffe des plus grands
 sorciers ? Saurez-vous relever tous les défis ? C’est parti !
 Votre objectif est de valider votre scolarité à Poudlard. Chaque année sera parsemée d’embuches.
 Fonctionnement
+
+
 Au début d’une partie, on crée notre sorcier Wizard. Il nous faut ensuite l’équiper d’une
 baguette (Wand) et laisser le Choipeau Magique (SortingHat) lui assigner sa maison : Griffondor
 (Gryffindor), etc.
+
 Lorsque votre sorcier est prêt, vous pouvez commencer votre première année. Le RPG contient 7
 niveaux, correspondant aux 7 années nécessaires à l’obtention de votre diplôme. À chaque niveau,
 vous allez affronter des ennemis différents. Les mécaniques pour les vaincre changeront en fonction
 de l’ennemi.
+
 Pour combattre vos ennemis, vous pourrez utiliser des sorts (Spell) que vous apprendez au fur
 et à mesure des années. Vous disposez également de potions (Potion) qui peuvent vous aider à
 regagner de la vie. Les sorts que vous lancez ont un pourcentage de chance de réussite : vous pouvez
 rater vos sorts.
+
+
 Lorsque vous gagnez un combat, vous pouvez choisir d’augmenter vos points de vie, vos points
 de dégâts.
+
 Chaque maison a sa spécificité :
 • Les potions sont plus efficaces pour les membres de Hufflepuff.
 • Les sorts font plus de dégâts pour les membres de Slytherin.
 • Les sorciers de Gryffindor sont plus résistants aux dégâts.
 • Les sorciers de Ravenclaw sont plus précis.
+
+
 Pour terminer le jeu, vous devez survivre aux 7 niveaux. Si vous y arrivez, vous serz diplômés de
 la plus prestigieuse école de sorcellerie de la planète !
 Niveaux
 Les niveaux se présentent de la forme suivante :
+
 The Philosopher’s Stone
 Vous devez affronter le méchant Troll qui se trouve dans les toilettes à côté du Donjon. Pour le
 vaincre, vous devez soulever des objets et les relâcher lorsqu’ils se trouvent au-dessus de sa tête.
+
 The Chamber of Secrets
 Vous êtes face au terrible basilic. Si vous êtes de Griffondor, vous pouvez faire appel à l’épée
 légendaire de Godric Gryffindor pour le terrasser. Sinon, il faudra lui arracher un de ses crocs et
 l’utiliser pour détruire le journal de Tom Jedusor.
+
 CHAPITRE 1 : START OF AN ADVENTURE 2
 The Prisonner of Azkaban
 Les Détraqueurs sont en liberté. Ils errent dans les rues, les campagnes. Heureusement, vous avez
 entendu parler d’un sort pour les mettre en fuite... Expect... Expecta... Ah oui, Expectro Patronum.
 Votre objecif est d’apprendre le sort, puis de l’utiliser pour vaincre les Détraqueurs.
+
 The Goblet of Fire
 Par malheur, vous avez remporté le Tournoi des Trois Sorciers... et le droit de mourir. Vous êtes
 dans un cimetière, où se trouvent aussi Voldemort et Peter Pettigrew. Votre seule chance de fuite est
 de vous rapprocher du Portkey pour l’attirer à vous (Accio !). Ne vous inquiétez pas, vous reverrez
 Voldemort.
+
 The Order of the Phenix
 C’est l’heure du BUSE (Brevet Universel de Sorcellerie Élémentaire) ! Dolores Ombrage veille sur
 le grain. Votre objectif est de la distraire le temps que les feux d’artifice soient prêts à être utilisés.
+
 The Half-Blood Prince
 Les Mangemorts attaquent Poudlard. Êtes-vous prêts à vous défendre ? Vous devez les attaquer
 de face (Sectumsempra). Si vous êtes de Serpentard, vous pouvez décider de rejoindre les rangs des
 Mangemorts.
+
 The Deathly Hallows
 Trêve de tergiversations, il faut attaquer le problème à la source. Vous êtes face à Voldemort et a
 Bellatrix Lestrange. Faites attention, ils peuvent vous tuer d’un coup avec Avada Kedavra si vous
 n’êtes pas prêts.
+
 CHAPITRE 1 : START OF AN ADVENTURE 3
 Tab. 1.1 : Détail des niveaux
 Niveau Lieu Ennemi Description
@@ -159,6 +180,7 @@ incantations in this class. As such, I don’t expect
 many of you to appreciate the subtle science and
 exact art that is programming.
 Severus Snape, allegedly
+
 Votre code devra respecter les contraintes suivantes :
 • Votre code doit être en anglais.
 • Vos fonctions ne doivent pas dépasser 40 lignes.
